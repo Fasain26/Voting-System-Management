@@ -20,5 +20,6 @@
 
 7.Run the script http://localhost/voting management system
 
-username  Risang Faiz
-password  password
+username : Risang Faiz
+
+password : password
